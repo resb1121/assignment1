@@ -1,9 +1,25 @@
 html {
     color: orange;
 }
+
+/*
+body {
+    color: blue;
+    background-color: gray;
+}
+*/
+
 h1 {
     color: green;
+    background-color: beige;
+    font-family: 'arial';
 }
 p {
     color: coral;
+    background-color: dodgerblue
 }
+a{
+    color:red;
+}
+h2 { font-family: monospace;
+font font-weight: 600}
