@@ -2,24 +2,41 @@ html {
     color: orange;
 }
 
-/*
 body {
     color: blue;
     background-color: gray;
 }
-*/
 
 h1 {
     color: green;
     background-color: beige;
     font-family: 'arial';
 }
+
+.cis-260 {
+    color: chartreuse;
+    background-color: cadetblue;
+    font-family: cursive;
+}
+
+.test {
+    background-color: darkgreen;
+}
+
+.big {
+    background-color: chocolate;
+}
+
 p {
     color: coral;
-    background-color: dodgerblue
+    background-color: dodgerblue;
 }
-a{
-    color:red;
+
+a {
+    color: red;
 }
-h2 { font-family: monospace;
-font font-weight: 600}
+
+h2 {
+    font-family: monospace;
+    font-weight:600;
+}
